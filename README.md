@@ -4,4 +4,4 @@
 
 ### Webcrawler.py: demo code used in class
 
-### Q1: code for question 1 in homework2
+### b9122_hw2_sol_Zirui_Liu: code for question 1 in homework2
